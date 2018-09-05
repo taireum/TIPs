@@ -1,0 +1,7 @@
+---
+layout: page
+title: TRC
+---
+
+{% assign tips=site.pages|where:"type","Standards Track"|where:"category","TRC" %}
+{% include tiptable.html tips=tips %}

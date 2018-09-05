@@ -22,9 +22,9 @@ github_username:  taireum
 header_pages:
  - all.html
  - core.html
- - networking.html
- - interface.html
- - erc.html
+#  - networking.html
+#  - interface.html
+ - trc.html
  - informational.html
  - meta.html
 twitter:

@@ -1,11 +1,11 @@
 ---
-tip: <to be assigned>
-title: <TIP title>
+tip: <编号>
+title: <TIP 标题>
 author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
-discussions-to: <URL>
+discussions-to: <讨论URL链接>
 status: Draft
-type: <Standards Track (Core, Networking, Interface, ERC)  | Informational | Meta>
-category (*only required for Standard Track): <Core | Networking | Interface | ERC>
+type: <标准 (核心,TRC)  | 建议 | 过程改进>
+category (*当类型是标准的时候必填): <核心 | TRC>
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires (*optional): <TIP number(s)>
 replaces (*optional): <TIP number(s)>

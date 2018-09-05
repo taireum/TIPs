@@ -1,10 +1,14 @@
 <style type="text/css">
+  .tiptable .tipnum {
+    width: 12%;
+  }
+
   .tiptable .title {
-    width: 67%;
+    width: 60%;
   }
 
   .tiptable .author {
-    width: 33%;
+    width: 28%;
   }
 </style>
 {% for status in site.data.statuses %}
@@ -14,7 +18,7 @@
     <h2>{{status}}</h2>
     <table class="tiptable">
       <thead>
-        <tr><th class="tipnum">Number</th><th class="title">Title</th><th class="author">Author</th></tr>
+        <tr><th class="tipnum">编号</th><th class="title">标题</th><th class="author">作者</th></tr>
       </thead>
       {% for page in tips %}
         <tr>

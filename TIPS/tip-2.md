@@ -3,8 +3,8 @@ tip: 2
 title: Homestead Hard-fork Changes
 author: Vitalik Buterin <v@buterin.com>
 status: Final
-type: Standards Track
-category: Core
+type: 规范
+category: 核心
 created: 2015-11-15
 ---
 
