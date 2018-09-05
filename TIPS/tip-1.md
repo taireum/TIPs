@@ -9,7 +9,7 @@ created: 2018-09-05
 
 ## 什么是TIP?
 
-TIP是Taireum改进提案的缩写。TIP是为Taireum社区提供建议或描述Taireum流程或环境的新功能的设计文档。TIP应该提供特性的简明技术规范和特性的基本原理。TIP作者负责在社区内建立共识并记录不同意见。
+TIP是Taireum Improvement Proposals（Taireum改进提案）的缩写。TIP是为Taireum社区提供建议或描述Taireum流程或环境的新功能的设计文档。TIP应该提供特性的简明技术规范和特性的基本原理。TIP作者负责在社区内建立共识并记录不同意见。
 
 ## TIP 原理
 
